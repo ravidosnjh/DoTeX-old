@@ -1,0 +1,1 @@
+.\venv\Scripts\Python.exe DoTeX.py
